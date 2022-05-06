@@ -1,0 +1,42 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+
+.header {
+    text-align: left;
+    background-image: url("../Imagenes/Header.jpg");
+    background-position: center;
+    background-size: cover;
+    background-color: grey;
+    height: 10em;
+    padding: 2em;
+    font-size: 2em;
+    color: white;
+    box-shadow: rgb(58, 59, 60);
+}
+
+
+.productos {
+    width: 90%;
+    margin: auto;
+}
+
+.productos td {
+    width: 50%;
+    padding: 2em;
+}
+
+.productos img {
+    width: 100%;
+    border-radius: 3%;
+}
+
+.footer {
+    background-color: black;
+    font-size: 1.5em;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0.5em;
+}
